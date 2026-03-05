@@ -6,6 +6,9 @@ This lab demonstrates a practical Site-to-Site IPSec VPN setup with **AES-256 en
 
 **Use Case:** Secure communication between Site A (Head Office) and Site B (Branch Office) over untrusted internet.
 
+<img width="1449" height="283" alt="VPN-IPsec" src="https://github.com/user-attachments/assets/080a8492-194a-43ae-ba00-1e3808a1c130" />
+
+
 ---
 
 ## Network Topology
